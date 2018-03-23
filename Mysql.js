@@ -16,6 +16,7 @@ class Mysql {
       user: config.user,
       password: config.password,
       database: config.database,
+      flags: config.flags,
       //socketPath  : '/var/lib/mysql/mysql.sock'
     });
   }

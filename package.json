@@ -2,6 +2,10 @@
   "name": "mysql-wrapper",
   "main": "Mysql.js",
   "version": "1.0.0",
+  "description": "mysql wrapper",
+  "repository": "https://github.com/nebaz/mysql",
+  "license": "MIT",
+  "author": "Nebaz <nebaz@ya.ru>",
   "dependencies": {
     "mysql2": "~1.5.2"
   }
